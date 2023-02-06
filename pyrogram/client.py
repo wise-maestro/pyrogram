@@ -180,7 +180,7 @@ class Client(Methods):
     """
 
     APP_VERSION = f"Pyrogram {__version__}"
-    DEVICE_MODEL = "NandaPedia-Ubot"
+    DEVICE_MODEL = "Luxury-Userbot"
     SYSTEM_VERSION = f"{platform.system()} {platform.release()}"
 
     LANG_CODE = "en"
